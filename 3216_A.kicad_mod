@@ -24,7 +24,7 @@
   (fp_line (start -2.65 -1.35) (end -2.65 1.35) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -1.625 0) (size 1.05 1.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.625 0) (size 1.05 1.7) (layers F.Cu F.Paste F.Mask))
-  (model smd/Capacitors/c_1206.wrl
+  (model 3D/kicad/Resistors_SMD/R_1206.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
